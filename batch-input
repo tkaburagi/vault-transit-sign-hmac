@@ -1,0 +1,12 @@
+{
+  "batch_input": [
+    {
+      "input": "adba32==",
+      "context": "efgh"
+    },
+    {
+      "input": "adba32==",
+      "context": "abcd"
+    }
+  ]
+}
